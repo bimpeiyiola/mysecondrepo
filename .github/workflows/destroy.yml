@@ -1,9 +1,9 @@
-name: deploy terraform code
+name: destroy terraform code
 
 on:
   workflow_dispatch:
 jobs:
-  deploy:
+  destroy:
     runs-on: ubuntu-latest # Use the latest Ubuntu runner, creates virtual environment for the job
     steps:
      - name: Checkout code
