@@ -1,3 +1,3 @@
 variable "bucket_name" {
-  default = "classapril2026"
+  default = "april2026-tfclass"
 }
