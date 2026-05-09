@@ -4,3 +4,6 @@ desktop.ini
 .terraform.lock.hcl
 *.tfstate
 *.tfstate.backup
+variables.tf
+terraform.tfvars
+dev.tfvars
